@@ -1,9 +1,16 @@
 # Honukai Dark Blue Theme for Visual Studio Code
 
-__Honukai Theme 1.3__  
+A dark blue theme for Visual Studio Code inspired by the Honukai theme, with enhanced syntax highlighting and improved support for multiple languages.
+
+- - - - -
+Honukai Theme 1.3
 Author:info@dev.dsgnr.com after Oskar Krawczyk https://x.com/oskar/status/664911529192607746?lang=en
 
-A dark blue theme for Visual Studio Code inspired by the Honukai theme, with enhanced syntax highlighting and improved support for multiple languages.
+Reference 1: https://github.com/oskarkrawczyk/honukai-iterm-zsh
+Reference 2: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/honukai.omp.json
+
+This theme was extrapolated from a terminal color theme to be useful code IDEs like VS Code. Reference ZED documentation on how to adopt for that use case.
+- - - - -
 
 ## Preview  
 
